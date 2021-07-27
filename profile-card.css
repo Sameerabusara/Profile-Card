@@ -1,0 +1,99 @@
+/*{
+  border: 1px solid red;
+}*/
+
+body{
+ background-color: #5499C7;
+}
+
+#card{
+  border-radius: 15px 15px 15px 15px;
+  width: 350px;
+  top: 0;
+  left: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  margin-top: 10%;
+
+}
+
+.cover-pic{
+  position: relative;
+  top: 0;
+  left: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.prof-pic{
+  border-radius: 50%;
+  border: 5px solid white;
+  position: relative;
+  top: 30px;
+  left: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -80px;
+  margin-left: 100px;
+}
+
+.info{
+  text-align: center;
+  display: flex;
+}
+
+.name{
+  margin-left: 100px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.age{
+  height: 20px;
+  width: 10px;
+  flex: 1;
+  margin-top: 33px;
+  margin-left: -70px;
+  color: gray;
+}
+
+.place{
+  text-align: center;
+  margin-top: -10px;
+  color: gray;
+}
+
+.line{
+  border-top: 1px solid gray;
+}
+
+.num-follow{
+  margin-left: 60px;
+}
+
+.num-like{
+  margin-left: 50px;
+}
+
+.num-photo{
+  margin-left: 50px;
+}
+
+.follow{
+  margin-left: 50px;
+  margin-top: -10px;
+}
+
+.like{
+  margin-left: 60px;
+  margin-top: -10px;
+}
+
+.photo{
+  margin-left: 65px;
+  margin-top: -10px;
+}
